@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheListViewExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_Persons">Persons</string>
+    <string name="first_name_text">FirstName</string>
+    <string name="middle_name_text">MiddleName</string>
+    <string name="last_name_text">Last Name</string>
+</resources>
