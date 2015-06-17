@@ -67,7 +67,7 @@ public class MainActivity extends ActionBarActivity {
                 getResponsibleIntent = new Intent(getBaseContext(), ResponsibleDetailsActivity.class);
 
                 final int result = 1;
-
+                //test
                 getResponsibleIntent.putExtra("resp", repo);
 
                 startActivity(getResponsibleIntent);
